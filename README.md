@@ -32,10 +32,10 @@ Customer Feedback: Correlation of price with ratings and review count reflects p
 Top Performers: Helps identify the best-rated and most-reviewed products.
 
 Key Takeaways
- ->Average Discount Rate: ~57%
+ - Average Discount Rate: ~57%
 
- ->Most products receive high ratings despite significant price drops, implying maintained quality.
+ - Most products receive high ratings despite significant price drops, implying maintained quality.
 
- ->Strong engagement for mid-range electronics like USB dongles and wireless mice.
+ - Strong engagement for mid-range electronics like USB dongles and wireless mice.
 
 
